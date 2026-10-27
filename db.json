@@ -1,0 +1,15 @@
+{
+  "courses": [
+    { "id": 1, "name": "React Fundamentals", "duration": "4 weeks", "fee": 4999 },
+    { "id": 2, "name": "Node.js Basics", "duration": "6 weeks", "fee": 5999 },
+    { "id": 3, "name": "Full Stack Web Development", "duration": "8 weeks", "fee": 9999 },
+    { "id": 4, "name": "Database Management", "duration": "5 weeks", "fee": 3999 }
+  ],
+  "books": [
+    { "id": 1, "title": "Clean Code", "author": "Robert C. Martin", "category": "Software Engineering" },
+    { "id": 2, "title": "You Don't Know JS", "author": "Kyle Simpson", "category": "JavaScript" },
+    { "id": 3, "title": "Eloquent JavaScript", "author": "Marijn Haverbeke", "category": "JavaScript" },
+    { "id": 4, "title": "Design Patterns", "author": "Gang of Four", "category": "Software Engineering" },
+    { "id": 5, "title": "Learning React", "author": "Alex Banks", "category": "React" }
+  ]
+}
